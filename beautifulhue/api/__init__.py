@@ -1,4 +1,4 @@
-from _portal import Portal
+from ._portal import Portal
 
 class Bridge():
     
